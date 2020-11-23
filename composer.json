@@ -1,0 +1,16 @@
+{
+    "name": "valladares/artesanias-cano",
+    "description": "Sitio 1.0",
+    "type": "carbon",
+    "require": {
+        "nesbot/carbon": "^2.41"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "alfredo-valladares",
+            "email": "josealfredo.developer@outlook.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
